@@ -1,5 +1,7 @@
 # Carbon-Nanotube-Sensors-Multiphase-Project-
 
+![sensor](https://user-images.githubusercontent.com/69224996/95515256-2d8bf200-0972-11eb-93c3-30e774a3fe77.png)
+
 This is a senior project carried out at the University of Washington to create data models that successfully predict the sensitivity and detection capability of modified carbon nanotube sensors.
 
 In this multiphase project, we used five datasets including Metal-CNT Sensor Dataset, Research Centers-Countries Dataset, Pt-CNT Sensor Dataset, Sulfur Cathode Properties Dataset, and CNT Synthesis Dataset. These datasets were obtained from the chemical experiments and research carried out at the University of Washington.
