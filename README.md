@@ -1,6 +1,11 @@
 # <div align=”center”> [ Carbon Nanotube Sensors Multiphase Project ] </div>
 
  ![sensor](https://user-images.githubusercontent.com/69224996/95515256-2d8bf200-0972-11eb-93c3-30e774a3fe77.png)
+ 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/69224996/95515256-2d8bf200-0972-11eb-93c3-30e774a3fe77.png" >
+<p>Perfectly balanced</p>
+</div>
 
 This is a senior project carried out at the University of Washington to create data models that successfully predict the sensitivity and detection capability of modified carbon nanotube sensors.
 
