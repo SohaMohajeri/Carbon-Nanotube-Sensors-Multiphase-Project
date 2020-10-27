@@ -1,4 +1,8 @@
-<div align="center"> [Carbon Nanotube Sensors Multiphase Project] </div>
+<div align="center"> 
+  
+# Carbon Nanotube Sensors Multiphase Project
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/95515256-2d8bf200-0972-11eb-93c3-30e774a3fe77.png" >
