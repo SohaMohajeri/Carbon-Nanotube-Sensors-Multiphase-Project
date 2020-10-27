@@ -1,6 +1,4 @@
- 
- 
-href="#Carbon Nanotube Sensors Multiphase Project
+<div align="center">#Carbon Nanotube Sensors Multiphase Project</div>
 
 
 <div align="center">
