@@ -7,7 +7,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/69224996/95515256-2d8bf200-0972-11eb-93c3-30e774a3fe77.png" >
 </div>
+<br />
 
+<div align="justify">
 
 This is a senior project carried out at the University of Washington to create data models that successfully predict the sensitivity and detection capability of modified carbon nanotube sensors.
 
@@ -22,3 +24,8 @@ In the third phase, the best preforming Pt-CNT sensor that was fabricated in the
 In the fourth phase, we obtained the properties of the applied sulfur cathodes from the manufacturers as a data frame with 19 columns. These columns demonstrated the physical and chemical properties of sulfide cathode materials including their thermal conductivity, formation energy, band gap, density, ionic conductivity and so forth. In the First step, we used Principal Component Analysis (PCA) as a dimensionality-reduction technique. In order to do this, we standardized the data, found the optimal number of components which captured the greatest amount of variance, and performed PCA with the chosen number of components. In the second step, we segmented this data into separate clusters by KMeans Clustering. For this purpose, we tried to find the number of optimal clusters by elbow method, performed clustering with the chosen number of clusters, visualized clusters by components, and added PCA and K-means results to the dataframe. Finally, we grouped the sulfur cathode materials to separate classes with respect to their crystalline structure.
 
 In the fifth phase, we synthesized carbon nanotubes by Chemical Vapor Deposition which is the most widely used method for the production of carbon nanotubes, and fabricated three types of single-wall carbon nanotubes including armchair, zig-zag and chiral as well as two types of multi-wall carbon nanotubes including Russian and Parchment. In this process, we recorded the growth temperature, gas flow rate, wall thickness and deposited mass. Finally, as the dimension of the recorded data was not high, we used K-Nearest Neighbors (KNN) algorithm for the classification and prediction of different types of carbon nanotubes.
+
+</div>
+
+
+
