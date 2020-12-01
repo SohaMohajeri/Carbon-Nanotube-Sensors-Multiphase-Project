@@ -26,5 +26,3 @@ In the fifth phase, we synthesized carbon nanotubes by Chemical Vapor Deposition
 
 </div>
 
-
-
