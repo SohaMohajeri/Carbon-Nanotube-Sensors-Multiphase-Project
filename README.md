@@ -25,4 +25,3 @@ In the fourth phase, we obtained the properties of the applied sulfur cathodes f
 In the fifth phase, we synthesized carbon nanotubes by Chemical Vapor Deposition which is the most widely used method for the production of carbon nanotubes, and fabricated three types of single-wall carbon nanotubes including armchair, zig-zag and chiral as well as two types of multi-wall carbon nanotubes including Russian and Parchment. In this process, we recorded the growth temperature, gas flow rate, wall thickness and deposited mass. Finally, as the dimension of the recorded data was not high, we used K-Nearest Neighbors (KNN) algorithm for the classification and prediction of different types of carbon nanotubes.
 
 </div>
-
